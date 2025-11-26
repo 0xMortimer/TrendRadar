@@ -5,12 +5,11 @@ ETH
 
 谷歌
 google
-gemini
-deepmind
+MAGA7
 
+gemini
 chatgpt
 openai
-sora
 
 claude
 Anthropic
@@ -18,3 +17,10 @@ Anthropic
 ai
 !gai
 人工智能
+
+AI法律
+AI新法规
+
+美股
+A股
+港股
